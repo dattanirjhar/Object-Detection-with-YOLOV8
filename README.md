@@ -157,7 +157,7 @@ To contribute:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 -   [Ultralytics](https://www.ultralytics.com/) for the YOLOv8 model and Python package.
@@ -166,9 +166,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [python-shield]: https://img.shields.io/badge/Python-3.8+-blue.svg
 [python-url]: https://www.python.org/
-[license-shield]: https://img.shields.io/github/license/your-username/your-repository-name.svg
-[license-url]: https://github.com/your-username/your-repository-name/blob/main/LICENSE.txt
-[stars-shield]: https://img.shields.io/github/stars/your-username/your-repository-name.svg
-[stars-url]: https://github.com/your-username/your-repository-name/stargazers
-[forks-shield]: https://img.shields.io/github/forks/your-username/your-repository-name.svg
-[forks-url]: https://github.com/your-username/your-repository-name/network/members
+[license-shield]: https://img.shields.io/github/license/dattanirjhar/Object-Detection-with-YOLOV8.svg
+[license-url]: https://github.com/dattanirjhar/Object-Detection-with-YOLOV8/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/dattanirjhar/Object-Detection-with-YOLOV8.svg
+[stars-url]: https://github.com/dattanirjhar/Object-Detection-with-YOLOV8/stargazers
+[forks-shield]: https://img.shields.io/github/forks/dattanirjhar/Object-Detection-with-YOLOV8.svg
+[forks-url]: https://github.com/dattanirjhar/Object-Detection-with-YOLOV8/network/members
