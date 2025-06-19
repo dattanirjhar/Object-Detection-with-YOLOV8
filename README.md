@@ -94,8 +94,8 @@ Make sure you have the following installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/.git](https://github.com/dattanirjhar/Object-Detection-with-YOLOV8.git)
+    cd Object-Detection-with-YOLOV8
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
