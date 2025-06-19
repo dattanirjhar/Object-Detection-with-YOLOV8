@@ -1,9 +1,9 @@
 # Real-Time YOLOv8 Object Detection with a Multithreaded Pipeline
 
-[![Python Version][python-shield]][https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg]
-[![MIT License][license-shield]][https://img.shields.io/github/license/dattanirjhar/Object-Detection-with-YOLOV8.svg]
-[![Stargazers][stars-shield]][https://img.shields.io/github/stars/dattanirjhar/Object-Detection-with-YOLOV8.svg]
-[![Forks][forks-shield]][https://img.shields.io/github/forks/dattanirjhar/Object-Detection-with-YOLOV8.svg]
+[![Python Version][python-shield]]
+[![MIT License][license-shield]]
+[![Stargazers][stars-shield]]
+[![Forks][forks-shield]]
 
 An optimized, high-performance object detection application that uses YOLOv8 and a multithreaded architecture to process live webcam feeds with minimal latency and high frame rates.
 
