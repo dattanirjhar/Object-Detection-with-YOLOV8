@@ -94,7 +94,7 @@ Make sure you have the following installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/.git](https://github.com/dattanirjhar/Object-Detection-with-YOLOV8.git)
+    git clone https://github.com/dattanirjhar/Object-Detection-with-YOLOV8.git
     cd Object-Detection-with-YOLOV8
     ```
 
