@@ -1,9 +1,9 @@
 # Real-Time YOLOv8 Object Detection with a Multithreaded Pipeline
 
-[![Python Version][python-shield]]
-[![MIT License][license-shield]]
-[![Stargazers][stars-shield]]
-[![Forks][forks-shield]]
+![Python Version][python-shield]
+![MIT License][license-shield]
+![Stargazers][stars-shield]
+![Forks][forks-shield]
 
 An optimized, high-performance object detection application that uses YOLOv8 and a multithreaded architecture to process live webcam feeds with minimal latency and high frame rates.
 
